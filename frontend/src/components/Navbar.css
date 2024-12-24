@@ -1,0 +1,26 @@
+.user_png{
+    width: 60px;
+    height: 60px;
+    margin-top: -16px;
+
+}
+
+.text{
+     color: rgba(255, 0, 0, 0.732);
+    
+}
+
+
+.btn-nav{
+    background-color:rgba(240, 0, 0, 0.87);
+    
+
+    border-radius: 5px;
+    color: white !important;
+    font-weight: bold;
+}
+
+.fonta{
+    font-weight: 500;
+   
+}
